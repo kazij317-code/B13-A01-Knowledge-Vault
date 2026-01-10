@@ -427,8 +427,9 @@ hr {
   align-items: center;
   margin-left: 120px;
 }
-.copy{
+.copyright{
   margin-left: 120px;
+  text-align: center;
 }
 
 
