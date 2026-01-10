@@ -313,11 +313,10 @@ a:hover {
   padding: 120px;
 }
 
-.brain-img{
-  width: 600px;
-  height: 600px;
-  border-radius: 12px;
-  background: url("assets/knowledge.png");   
+.second-brain .brain-img img{
+    width: 600px;
+    height: 600px;
+    verticle-align: middle;
 }
 
 .brain-flex {
